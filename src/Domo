@@ -2,6 +2,6 @@ public class domo{
 
     public static void main(String[]domo){
         int domo1=100;
-        System.out.println("欢迎新用户到工商银行:");
+        System.out.println("欢迎新用户到工商银行常斯凯:");
     }
 }
